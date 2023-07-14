@@ -9,5 +9,6 @@
       // executes command to source the script before going interactive
       "args": ["-C", "source ${workspaceFolder}/scripts/track-history.fish"]
     }
-  }
+  },
+  "gitlens.views.commits.files.layout": "tree"
 }
