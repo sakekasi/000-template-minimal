@@ -2,6 +2,8 @@
   "recommendations": [
     "maptz.regionfolder",
     "satokaz.vscode-toggleproxy",
-    "linhmtran168.mac-ca-vscode"
+    "linhmtran168.mac-ca-vscode",
+    "github.copilot-chat",
+    "github.copilot"
   ]
 }
